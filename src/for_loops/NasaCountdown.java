@@ -18,6 +18,7 @@ package for_loops;
 public class NasaCountdown {
 	public static void main(String[] args) {
 		// 2. ask the user when to start (JOptionPane.showInputDialog)
+		
 		// 3. convert the user's answer to an int (Integer.parseInt)
 
 		// 4. countdown from user's starting point
